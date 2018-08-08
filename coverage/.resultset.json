@@ -1,7 +1,7 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/ubuntu/workspace/app/models/point.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/models/point.rb": [
         1,
         1,
         1,
@@ -19,7 +19,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/app/controllers/points_controller.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/controllers/points_controller.rb": [
         1,
         1,
         null,
@@ -117,27 +117,27 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/app/controllers/application_controller.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/controllers/application_controller.rb": [
         1,
         null,
         null,
         1,
         null
       ],
-      "/home/ubuntu/workspace/app/helpers/application_helper.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ubuntu/workspace/app/helpers/points_helper.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/helpers/points_helper.rb": [
         1,
         null
       ],
-      "/home/ubuntu/workspace/app/helpers/welcome_helper.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/helpers/welcome_helper.rb": [
         1,
         null,
         null
       ],
-      "/home/ubuntu/workspace/app/controllers/welcome_controller.rb": [
+      "/home/ec2-user/repos/CNSC-Chinatown/CNSC-Chinatown/app/controllers/welcome_controller.rb": [
         1,
         null,
         1,
@@ -156,6 +156,6 @@
         null
       ]
     },
-    "timestamp": 1511675203
+    "timestamp": 1533720677
   }
 }
